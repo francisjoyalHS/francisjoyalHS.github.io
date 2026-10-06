@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <body style="margin:0;background:#000">
     <video src="elvis.mp4" autoplay muted loop playsinline
